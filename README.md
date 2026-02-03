@@ -21,7 +21,7 @@ This project demonstrates real-world IT administration and support skills, inclu
 
 # Project 2: Project 2: Exchange Server Deployment and Configuration
 
-# This project demonstrates the deployment, configuration, and validation of Microsoft Exchange Server in an Active Directory–based enterprise environment. It builds on the Active Directory and Domain Controller infrastructure by integrating Exchange Server to provide secure internal and external email communication.
+# This project demonstrates the deployment, configuration, and validation of Microsoft Exchange Server in an Active Directory based enterprise environment. It builds on the Active Directory and Domain Controller infrastructure by integrating Exchange Server to provide secure internal and external email communication.
 
 # Key features include:
 
