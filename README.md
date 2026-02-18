@@ -1,5 +1,14 @@
 # Project 1: Active-Directory-and-Domain-Controller-Setup
-This project demonstrates the design, deployment, and management of a complete Active Directory (AD) infrastructure in a simulated enterprise environment. It showcases practical skills in domain controller setup, organizational unit (OU) and user management, Group Policy configuration, file server setup, network drive mapping, and PowerShell automation.
+This project demonstrates the design, deployment, and management of a complete on-premises infrastructure in a simulated enterprise environment. It showcases practical skills in:
+- Active Directory Domain Services (ADDS) and domain controller setup
+- Organizational Unit (OU) and user management
+- Group Policy configuration
+- File and Print Server deployment
+- DNS, DHCP, and VPN setup
+- Delegated user permissions and identity and access management
+- Network drive mapping
+- PowerShell automation
+The project provides hands-on experience with enterprise-grade infrastructure, emphasizing real-world scenarios and best practices for managing users, devices, and services in an on-prem environment.
 
 Key features include:
 
@@ -9,15 +18,19 @@ Key features include:
 
 - Group and Permission Management: Creating security groups and assigning users to manage access to shared resources.
 
+- DNS and DHCP Server Deployment and Management: Configuring DNS zones, DHCP scopes, and managing IP address allocation and name resolution for the network.
+
 - File Server Configuration: Setting up RAID-5 volumes, sharing departmental and private folders, and mapping home and shared drives.
+  
+- Print Server Deployment and Management: Installing and configuring print servers, deploying printers, and managing access through Group Policy.
 
-- Group Policy Automation: Using GPOs to map network drives and enforce policies for specific OUs.
-
+- Group Policy Automation: Using GPOs to map network drives, deploy printers, enforce security settings, configure user environments, and apply policies for specific OUs.
+  
 - PowerShell Automation: Bulk user creation with predefined properties, OU placement, and group membership.
 
-- Troubleshooting Scenarios: Identifying and resolving common issues like login failures, drive mapping errors, and permission conflicts.
+- Troubleshooting Scenarios: Identifying and resolving common issues like login failures, drive mapping errors, printer access problems and permission conflicts.
 
-This project demonstrates real-world IT administration and support skills, including Active Directory management, secure file sharing, network configuration, and automation. It can serve as a foundation for enterprise system and network administration and is ideal for anyone looking to showcase hands-on experience with Windows Server environments.
+This project provides a complete, hands-on experience in designing, deploying, and managing an enterprise on-premises infrastructure. It covers the full spectrum of Windows Server administration, including Active Directory and domain controller setup, OU and user management, group and permission configuration, file and print server deployment, DNS and DHCP server management, Group Policy automation, network drive and printer mapping, PowerShell automation, and troubleshooting real-world issues. By completing this project, users gain practical, end-to-end skills in enterprise IT administration, preparing them to confidently manage and support complex Windows Server environments.
 
 # Project 2: Project 2: Exchange Server Deployment and Configuration
 
